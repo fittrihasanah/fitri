@@ -13,7 +13,6 @@ function cancel(){
 
 const texts = [
     "STUDENT",
-    "YKITJUKYI",
    
 ]
 
